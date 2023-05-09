@@ -1,7 +1,7 @@
 # Desafio 3 JavaScript - ATOS/UFN
 
 - Repositório criado com a resolução da lista de exercícios de JavaScript
-- OBS.: Os exercícios 6, 7 e 8 estão no mesmo arquivo.
+- OBS.: Os exercícios 6, 7 e 8 estão no mesmo arquivo
 - Foram usadas tags script dentro do arquivo HTML visto que eram códigos mais simples
 
 1 - Crie um formulário com 4 botões que, ao clicar em cada um, altere a cor do plano de fundo da página para vermelho, verde, azul e amarelo, respectivamente.
